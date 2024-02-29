@@ -1,6 +1,6 @@
 # Chatbot using LLM and langchain framework.
-_      **Author: Subash Chandra R**
-      **Date: 28th Feb,2024**_
+      **Author: Subash Chandra R**
+      **Date: 28th Feb,2024**
 ## Leveraging the OPEN API, and vector DB(PineCone) to store the vectors.
 **Pre-req**:
   1) Need to generate a OpenAI API Key
